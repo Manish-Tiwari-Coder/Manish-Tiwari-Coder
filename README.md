@@ -37,8 +37,7 @@
 </p>
 
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Tech Skills GIF" /> -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9rN3liN3E3NjQwbXVwMG1nc2pxZzMzNGZkazRoZm56amdmY2RhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" width="400" alt="Tech Skills GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Tech Skills GIF" />
 </p>
 
 ---
