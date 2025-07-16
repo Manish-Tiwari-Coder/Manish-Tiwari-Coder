@@ -1,16 +1,112 @@
-## Hi there 👋
+<!-- PROFILE README -->
 
-<!--
-**Manish-Tiwari-Coder/Manish-Tiwari-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Manish Tiwari!</h1> 
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Full Stack Developer | 🌐 Web App Specialist | 🚀 DevOps Enthusiast <br/>
+  Passionate about clean code, scalability, and solving real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
+</p>
+
+---
+
+## 🛠️ My Tech Stack <img src="https://media.giphy.com/media/3ohc0V5PupZ6IQaUI0/giphy.gif" alt="tools gif" width="30" style="vertical-align:middle" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AJAX-007fff?style=for-the-badge&logo=ajax&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Socket.io-Mid--Level-black?style=for-the-badge&logo=socket.io"/>
+  <img src="https://img.shields.io/badge/Flutter-Beginner-blue?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DevOps-Practitioner-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deployment-Webpages--&--Software-green?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9rN3liN3E3NjQwbXVwMG1nc2pxZzMzNGZkazRoZm56amdmY2RhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" width="400" alt="Tech Skills GIF" />
+</p>
+
+---
+
+## 📊 GitHub Activity & Stats <img src="https://media.giphy.com/media/3o7aD4IShHENd89pnC/giphy.gif" alt="stats gif" width="30" style="vertical-align:middle" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-Tiwari-Coder&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Tiwari-Coder&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Analytics GIF" />
+</p>
+
+---
+
+## 🚀 Projects Showcase <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="rocket gif" width="30" style="vertical-align:middle" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Project Launch" />
+</p>
+
+- ✨ [My Portfolio Website](https://yourportfolio.com)  
+- 📱 Real-time Chat App using Node.js, Socket.IO, MongoDB  
+- 🛒 E-commerce Platform with CodeIgniter + MySQL + Bootstrap  
+- 📦 Deployment Scripts using Linux, Shell, GitHub Actions  
+
+---
+
+## 🐛 Issues Created & Solved <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="bug gif" width="30" style="vertical-align:middle" />
+
+I actively work on GitHub issues in both personal and collaborative projects:
+
+- ✅ Fixed authentication bugs in Node.js chat app  
+- ✅ Refactored DB queries for better performance in MySQL  
+- ✅ Created & resolved deployment pipeline issues using GitHub Actions  
+
+> 🔍 *Visit my repositories to view specific issue discussions and resolutions.*
+
+---
+
+## 📫 Contact Me <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="contact gif" width="30" style="vertical-align:middle" />
+
+<p align="center">
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+## 🎯 Current Focus <img src="https://media.giphy.com/media/3o7aCPZG0EFVxRZ07y/giphy.gif" alt="focus gif" width="30" style="vertical-align:middle" />
+
+- 📱 Building mobile-first UIs with Flutter  
+- ⚙️ Automating deployments with GitHub Actions  
+- 📦 Learning microservices & containerization  
+- 🔐 Implementing secure CI/CD for production apps  
+
+---
+
+## 🤖 Fun Fact <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="fun gif" width="30" style="vertical-align:middle" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" />
+</p>
+
+> “I automate because I’m lazy, but that’s what makes me efficient.”
+
+---
+
+Thanks for visiting! ⭐ Star a few repos and let’s connect — happy coding! 🚀
