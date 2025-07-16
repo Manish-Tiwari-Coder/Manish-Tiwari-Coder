@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ My Tech Stack <img src="https://media.giphy.com/media/3ohc0V5PupZ6IQaUI0/giphy.gif" alt="tools gif" width="30" style="vertical-align:middle" />
+## 🛠️ My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -37,12 +37,13 @@
 </p>
 
 <p align="center">
+  <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Tech Skills GIF" /> -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9rN3liN3E3NjQwbXVwMG1nc2pxZzMzNGZkazRoZm56amdmY2RhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" width="400" alt="Tech Skills GIF" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Stats <img src="https://media.giphy.com/media/3o7aD4IShHENd89pnC/giphy.gif" alt="stats gif" width="30" style="vertical-align:middle" />
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manish-Tiwari-Coder&show_icons=true&theme=tokyonight" height="180"/>
@@ -55,7 +56,7 @@
 
 ---
 
-## 🚀 Projects Showcase <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="rocket gif" width="30" style="vertical-align:middle" />
+## 🚀 Projects Showcase
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Project Launch" />
@@ -68,7 +69,7 @@
 
 ---
 
-## 🐛 Issues Created & Solved <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="bug gif" width="30" style="vertical-align:middle" />
+## 🐛 Issues Created & Solved
 
 I actively work on GitHub issues in both personal and collaborative projects:
 
@@ -80,7 +81,7 @@ I actively work on GitHub issues in both personal and collaborative projects:
 
 ---
 
-## 📫 Contact Me <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="contact gif" width="30" style="vertical-align:middle" />
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:manishtiwary0007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -90,7 +91,7 @@ I actively work on GitHub issues in both personal and collaborative projects:
 
 ---
 
-## 🎯 Current Focus <img src="https://media.giphy.com/media/3o7aCPZG0EFVxRZ07y/giphy.gif" alt="focus gif" width="30" style="vertical-align:middle" />
+## 🎯 Current Focus
 
 - 📱 Building mobile-first UIs with Flutter  
 - ⚙️ Automating deployments with GitHub Actions  
@@ -99,7 +100,7 @@ I actively work on GitHub issues in both personal and collaborative projects:
 
 ---
 
-## 🤖 Fun Fact <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="fun gif" width="30" style="vertical-align:middle" />
+## 🤖 Fun Fact
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" />
