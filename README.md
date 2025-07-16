@@ -85,7 +85,7 @@ I actively work on GitHub issues in both personal and collaborative projects:
 <p align="center">
   <a href="mailto:manishtiwary0007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/manish-tiwari-8a3231183"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
+  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
