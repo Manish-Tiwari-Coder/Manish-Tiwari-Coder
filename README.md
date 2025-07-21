@@ -1,6 +1,6 @@
 <!-- PROFILE README -->
 
-<h1 align="center">👋 Hi, I'm Manish Tiwari!</h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Manish Tiwari!</h1> 
 
 <p align="center">
   💻 Full Stack Developer | 🌐 Web App Specialist | 🚀 DevOps Enthusiast <br/>
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Activity & Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manish-Tiwari-Coder&show_icons=true&theme=tokyonight" height="180"/>
@@ -85,7 +85,8 @@ I actively work on GitHub issues in both personal and collaborative projects:
 <p align="center">
   <a href="mailto:manishtiwary0007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/manish-tiwari-8a3231183"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://wa.me/8651560335" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
+  <a href="tel:+8651560335">  <img src="https://img.shields.io/badge/Call-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Call Badge"/></a>
 </p>
 
 ---
