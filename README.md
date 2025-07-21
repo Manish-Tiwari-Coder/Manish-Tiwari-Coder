@@ -61,7 +61,6 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Project Launch" />
 </p>
 
-- ✨ [My Portfolio Website](https://yourportfolio.com)  
 - 📱 Real-time Chat App using Node.js, Socket.IO, MongoDB  
 - 🛒 E-commerce Platform with CodeIgniter + MySQL + Bootstrap  
 - 📦 Deployment Scripts using Linux, Shell, GitHub Actions  
