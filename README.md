@@ -55,13 +55,13 @@
 
 ---
 
-## 🚀 Projects Showcase
+## <img src="https://ugokawaii.com/wp-content/uploads/2023/12/rocket.gif" width="35"> Projects Showcase
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Project Launch" />
 </p>
 
-- 📱 Real-time Chat App using Node.js, Socket.IO, MongoDB  
+- 📱 Real-time Server Monitoring using Node.js, Socket.IO, MongoDB  
 - 🛒 E-commerce Platform with CodeIgniter + MySQL + Bootstrap  
 - 📦 Deployment Scripts using Linux, Shell, GitHub Actions  
 
