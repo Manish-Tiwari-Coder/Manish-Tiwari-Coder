@@ -66,19 +66,6 @@
 - 📦 Deployment Scripts using Linux, Shell, GitHub Actions  
 
 ---
-
-## 🐛 Issues Created & Solved
-
-I actively work on GitHub issues in both personal and collaborative projects:
-
-- ✅ Fixed authentication bugs in Node.js chat app  
-- ✅ Refactored DB queries for better performance in MySQL  
-- ✅ Created & resolved deployment pipeline issues using GitHub Actions  
-
-> 🔍 *Visit my repositories to view specific issue discussions and resolutions.*
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
